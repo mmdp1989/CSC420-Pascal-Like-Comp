@@ -1,6 +1,6 @@
 # CSC420-Pascal-Like-Comp
 
-This is a university project that I was not able to finish. I have decided to continue working on it in my spare time. Below is the readme from my final submission.
+This is a university project that I was not able to finish but have decided to continue working on it in my spare time. The compiler is Pascal-like in the sense that some features are of a different syntax such as C styled headers and does not read the entire Pascal grammar. These will be properly documented over time as I make more progress. Below is the readme straight from my final submission with minor modifications.
 
 Overall Status: Incomplete\
 Scanner - Complete\
