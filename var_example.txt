@@ -1,0 +1,14 @@
+program var_example;
+
+var a, b, c : integer;
+label d, e, f;
+const g, h, i = 5;
+type j, k, l = boolean;
+
+begin
+
+repeat
+a := 5;
+until a < 5;
+
+end.
